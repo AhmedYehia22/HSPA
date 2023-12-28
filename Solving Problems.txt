@@ -1,0 +1,12 @@
+1- Creating new angular project 
+   ng new Frontend --no-standalone
+2- running angular localhost
+   ng serve --open
+3- installing bootstrap 
+   npm install bootstrap --save
+
+4- Why powershell does not run Angular commands?
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+-------------------------------------------------------------------------
+
+
